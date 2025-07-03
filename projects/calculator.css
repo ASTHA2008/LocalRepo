@@ -1,0 +1,49 @@
+.content{
+    background-color: rgb(18, 18, 61);
+    height:600px;
+    width: 100%;
+
+}
+.nav{
+    background-color: rgb(11, 5, 59);
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    font-size: 30px;
+    color:antiquewhite;
+    
+}
+.para{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(8, 8, 10);
+    color:rgb(16, 236, 167);
+    font-size:30px;
+    border:black;
+    
+}
+.p1{
+    font-size: 40px;
+    text-align: center;
+   
+    padding: 10px;
+    color:aquamarine;
+}
+.p2{
+    font-size: 50px;
+    text-align: center;
+    padding: 10px;
+    color:rgb(227, 238, 195);
+}
+.giving-styling{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color:rgb(18, 18, 61);
+    color:aquamarine;
+    height:100px;
+    width:200px;
+   
+
+}
