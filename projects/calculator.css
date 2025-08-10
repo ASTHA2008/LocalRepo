@@ -1,6 +1,6 @@
 .content{
     background-color: rgb(18, 18, 61);
-    height:600px;
+    height:550px;
     width: 100%;
 
 }
@@ -9,7 +9,7 @@
     display:flex;
     justify-content: center;
     align-items:center;
-    font-size: 30px;
+    font-size: 20px;
     color:antiquewhite;
     
 }
@@ -24,14 +24,14 @@
     
 }
 .p1{
-    font-size: 40px;
+    font-size: 30px;
     text-align: center;
    
     padding: 10px;
     color:aquamarine;
 }
 .p2{
-    font-size: 50px;
+    font-size: 20px;
     text-align: center;
     padding: 10px;
     color:rgb(227, 238, 195);
